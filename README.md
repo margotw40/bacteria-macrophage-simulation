@@ -1,6 +1,6 @@
 # Bacteria/Macrophage Simulation
 
-An agent based and next-event simulation that uses a cell grid to simulate movement, division, and eating over time.
+An agent based, next-event simulation that uses a cell grid to simulate movement, division, and eating over time.
 
 ### Running the Project
 
