@@ -1,12 +1,12 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# Bacteria/Macrophage Simulation
 
-PROJECT TITLE: Bacteria/Macrophage Simulation
-PURPOSE OF PROJECT: Simulate Bacterium and Macrophage Interaction and Death
-VERSION or DATE:
-HOW TO START THIS PROJECT: Compile all files and run Tester
-AUTHORS: Margot White, Barry Lawson
-USER INSTRUCTIONS:
+An agent based and next-event simulation that uses a cell grid to simulate movement, division, and eating over time.
+
+### Running the Project
+
+To run this project, compile all java files and run Tester.  Values within Tester can be changed to create different simulations.
+Two windows will display when the simulation is run. One will show the macrophage and bacteria in a grid and their movement along with a count of each. The other window shows a graph of the number of bacteria and macrophage over time.
+
+### About
+
+This project was a part of my Simulation class, taught by Dr. Barry Lawson.
