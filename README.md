@@ -9,4 +9,4 @@ Two windows will display when the simulation is run. One will show the macrophag
 
 ### About
 
-This project was a part of my Simulation class, taught by Dr. Barry Lawson.
+This project was a part of my Simulation class, taught by Dr. Barry Lawson in 2016.
